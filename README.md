@@ -1,0 +1,1 @@
+Este projeto implementa uma Lista Circular para gerenciamento de nomes de filmes. Diferente de uma lista linear, nesta estrutura o último elemento aponta diretamente de volta para o primeiro, permitindo uma navegação contínua.
